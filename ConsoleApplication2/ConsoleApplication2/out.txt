@@ -1,0 +1,10 @@
+Bitcoin Dollar 4.2e+06 2021.12.15 Nakamoto 2009
+Litecoin Dollar 1500.2 2022.01.10 Lee 2011
+Rouble Dollar 75.45 2023.02.21 Russia kopeck
+Euro Dollar 1.1 2023.02.21 European Union
+Dogecoin Dollar 0.05 2021.11.25 Markus 2013
+Pound Dollar 1.35 2023.02.21 United Kingdom
+Yen Dollar 110.75 2023.02.21 Japan yen
+Ripple Dollar 1.3 2020.07.30 Larsen 2012
+Peso Dollar 19.75 2023.02.21 Mexico centavo
+Cardano Dollar 2.5 2022.05.15 Hoskinson 2017
