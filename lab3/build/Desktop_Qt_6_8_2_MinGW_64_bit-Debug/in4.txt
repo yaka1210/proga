@@ -1,0 +1,10 @@
+ggg Bitcoin Dollar 4200000.50 2021.12.15 Nakamoto 2009
+crypto Litecoin Dollar 1500.20 2022.01.10 Lee 2011
+regular Rouble Dollar 75.45 2023.02.21 Russia kopeck
+regular Euro Dollar 1.10 2023.02.21 EuropeanUnion cent
+crypto Dogecoin Dollar 0.05 2021.11.25 Markus 2013
+regular Pound Dollar 1.35 2023.02.21 UnitedKingdom penny
+regular Yen Dollar 110.75 2023.02.21 Japan yen
+crypto Ripple Dollar 1.30 2020.07.30 Larsen 2012
+regular Peso Dollar 19.75 2023.02.21 Mexico centavo
+crypto Cardano Dollar 2.50 2022.05.15 Hoskinson 2017
